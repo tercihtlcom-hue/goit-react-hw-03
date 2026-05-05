@@ -1,0 +1,16 @@
+/* SearchBox.module.css */
+.container {
+  display: flex;
+  
+  flex-direction: column;
+  align-items: flex-start; /* Sola hizalar */
+  gap: 8px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.input {
+  width: 250px;
+  padding: 4px;
+  border: 1px solid #000;
+}
